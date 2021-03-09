@@ -9,7 +9,7 @@
                        
                        
                        
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Satyajit99p)](https://github.com/Satyajit99p/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Satyajit99p&show_icons=true&theme=dark)
 
                       
 
