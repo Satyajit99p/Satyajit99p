@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Semantic Segmentation based HDR Tonemapping.
-- 🌱 I’m currently learning Tensorflow
+- 🔭 I’m currently working on **Semantic Segmentation based HDR Tonemapping**.
+- 🌱 I’m currently learning **Tensorflow**.
 - 👯 I’m looking to collaborate on Research projects involving ML or DataScience
 - 📫 How to reach me: </br> mail    : satyapani999@gmail.com <br/>
                        linkedin      : https://www.linkedin.com/in/satyajit-panigrahi-b7a425202/ 
